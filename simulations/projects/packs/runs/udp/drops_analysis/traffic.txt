@@ -1,0 +1,2 @@
+# Source, destination, packetSize_bits (we assume of data), rate_bitsperns, flowid, tstart_ns, tend_ns
+0 1 1000 11 1 0 1000000000
